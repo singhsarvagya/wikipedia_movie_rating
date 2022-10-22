@@ -2,11 +2,11 @@
 
 A Tampermonkey script which display movie rating on top of Wikipedia page. Once you create the Tampermonkey script you'll need to add the OMDB api key to the key script manually.
 
-### Without the script enabled
+### Without the script
 
 ![without](https://user-images.githubusercontent.com/54924634/197361173-0ea653f0-ae6d-41b9-957e-69a93d8f940f.PNG)
 
-### With the script enabled
+### With the script
 
 ![with](https://user-images.githubusercontent.com/54924634/197361190-d0da00c9-1fd6-47c1-8bdc-73fe84349ee0.PNG)
 
