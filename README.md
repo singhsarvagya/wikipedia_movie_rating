@@ -13,3 +13,7 @@ A Tampermonkey script which display movie rating on top of Wikipedia page
 ### Installing Tempermonkey
 
 [Here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+
+### Getting OMDB API key 
+
+[Here](https://www.omdbapi.com/apikey.aspx)
